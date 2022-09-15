@@ -1,0 +1,2 @@
+module array5 {
+}

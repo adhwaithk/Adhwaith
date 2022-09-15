@@ -1,0 +1,10 @@
+package threadrunnainter;
+
+public class threadrunnainter {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

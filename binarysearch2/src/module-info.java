@@ -1,0 +1,2 @@
+module binarysearch2 {
+}

@@ -1,0 +1,2 @@
+module numpat2 {
+}

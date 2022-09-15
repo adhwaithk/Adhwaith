@@ -1,0 +1,62 @@
+package circularlinkedlist;
+
+
+public class circularlinkedlist {
+	 public class node{
+		int data;
+		node next;
+		public node(int data) {
+			this.data=data;
+		}
+	}
+	public node head,tail=null;
+	public void addatend(int data) {
+		node newnode=new node(data);
+		if(head==null) {
+			head=newnode;
+			tail=newnode;
+			newnode.next=head;
+		}
+		else {
+			tail.next=newnode;
+			tail=newnode;
+			tail.next=head;
+		}
+	}
+	public void display() {
+		node current=head;
+		if(head==null) {
+			System.out.println("list is empty");
+			return;
+		}
+		else {
+			System.out.println("adding nodes at end");
+			do {
+				System.out.print(" "+current.data);
+				current=current.next;
+			}
+		while(current!=head);
+		System.out.println();
+			
+		}
+
+		
+	}
+
+	public static void main(String[] args) {
+		circularlinkedlist l=new circularlinkedlist();
+		l.addatend(1);
+		l.display();
+		l.addatend(2);
+		l.display();
+		l.addatend(3);
+		l.display();
+		l.addatend(4);
+		l.display();
+		
+		
+		
+
+	}
+
+}

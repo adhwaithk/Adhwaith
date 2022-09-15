@@ -1,0 +1,2 @@
+module hash1end {
+}

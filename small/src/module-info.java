@@ -1,0 +1,3 @@
+module small {
+	exports small;
+}
