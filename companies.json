@@ -1,0 +1,14 @@
+[
+	{
+		"name": "a mnc",
+		"noofemp": 10000,
+		"ceo": "arun",
+		"rating": 4.3
+	},
+	{
+		"name": "startup",
+		"noofemp": 400,
+		"ceo": null,
+		"rating": 4.8
+	}
+]

@@ -1,0 +1,28 @@
+{
+	"root": {
+		"COMPANIES": {
+			"COMPNAME": [
+				{
+					"NAME": "A MNC",
+					"NOOFEMP": "10000",
+					"CEO": "ARUN"
+				},
+				{
+					"NAME": "B MNC",
+					"NOOFEMP": "15000",
+					"CEO": "AKSHAY"
+				},
+				{
+					"NAME": "STARTUP",
+					"NOOFEMP": "450",
+					"CEO": "VYSHAK"
+				},
+				{
+					"NAME": "SMALLSTARTUP",
+					"NOOFEMP": "200",
+					"CEO": "ABHI"
+				}
+			]
+		}
+	}
+}

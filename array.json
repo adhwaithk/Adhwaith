@@ -1,0 +1,26 @@
+{
+		"companies" :
+			[
+			{
+				"NAME": "A MNC",
+				"NOOFEMP": 10000,
+				"CEO": "ARUN",
+				"RATING": 4.3,
+				"DOMAIN":["FULL STACK", "DATA SCIENCE", "CLOUD"]
+			},
+			{
+				"NAME":"STARTUP",
+				"NOOFEMP":450,
+				"CEO":"AKSHAY",
+				"RATING": 4.8,
+				"DOMAIN":["FULL STACK", "DATA SCIENCE"]
+			}
+			{
+				"NAME":"SMALL STARTUP",
+				"NOOFEMP":120,
+				"CEO":"VYSHAK",
+				"RATING": 4.6,
+				"DOMAIN":["FULL STACK"]
+			}
+			]
+}
