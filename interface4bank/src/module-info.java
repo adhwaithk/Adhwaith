@@ -1,0 +1,2 @@
+module interface4bank {
+}
