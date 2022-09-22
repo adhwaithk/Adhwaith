@@ -1,0 +1,2 @@
+module interfacedraw5cure {
+}
